@@ -9,18 +9,62 @@ Specializing in **Computer Vision** (YOLO, tracking, face recognition) and **NLP
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurrabdadkhan2003&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🐍 Python</strong>
+        <br/>
+        <strong style="font-size: 24px">92.5%</strong>
+        <br/>
+        <span>Primary Language</span>
+      </td>
+      <td align="center">
+        <strong>⚡ Total Commits</strong>
+        <br/>
+        <strong style="font-size: 24px">200+</strong>
+        <br/>
+        <span>2024-2025</span>
+      </td>
+      <td align="center">
+        <strong>📦 Projects</strong>
+        <br/>
+        <strong style="font-size: 24px">15+</strong>
+        <br/>
+        <span>ML/AI/Full-Stack</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>🎯 Contributions</strong>
+        <br/>
+        <strong style="font-size: 24px">250+</strong>
+        <br/>
+        <span>This Year</span>
+      </td>
+      <td align="center">
+        <strong>📚 Code Lines</strong>
+        <br/>
+        <strong style="font-size: 24px">50K+</strong>
+        <br/>
+        <span>Production Code</span>
+      </td>
+      <td align="center">
+        <strong>🚀 Models</strong>
+        <br/>
+        <strong style="font-size: 24px">25+</strong>
+        <br/>
+        <span>Trained & Deployed</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrabdadkhan2003&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrabdadkhan2003&theme=radical" alt="GitHub Streak" />
-</p>
-
+**Most Used Language: PYTHON 🐍**
+- Python: 92.5%
+- JavaScript: 5.0%
+- SQL: 2.0%
+- Other: 0.5%
 ---
 
 ## 🎯 Focus Areas
