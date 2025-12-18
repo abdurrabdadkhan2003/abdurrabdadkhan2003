@@ -1,85 +1,111 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+# ML & Computer Vision Engineer
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Abdur+Rab+Dad+Khan;Data+Science+Student+from+Hyderabad;Power+BI,+Python,+and+SQL+Enthusiast;Open+To+Project+Collab+and+Learning!&font=Fira+Code&center=true&width=500&height=45&duration=2200&pause=400" alt="Typing SVG" />
-</div>
+**Building end-to-end AI systems for real-world problems**
 
----
-
-<div align="center">
-  <a href="mailto:mabdurrabdadkhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/abdur-rab-dad-khan03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/maazdadkhan2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hyderabad-India-FFA500?style=for-the-badge" /></a>
-</div>
+Hyderabad, India | [LinkedIn](https://linkedin.com/in/abdur-rab-dad-khan03) | [Email](mailto:mabdurrabdadkhan@gmail.com)
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+%7C+ML+%7C+Python+%7C+SQL+%7C+Power+BI;LeetCode+%7C+Jupyter+%7C+Learning+Every+Day!;&font=Fira+Code&pause=600&width=420&height=30&center=true&vCenter=true&duration=1800" alt="typing-animation" />
-</div>
+## 🎯 Focus Areas
+
+- **Computer Vision**: YOLO object detection, DeepSORT tracking, CNN-based image classification, face recognition
+- **NLP & LLM**: Whisper speech recognition, transformer-based emotion detection, RAG systems, semantic search with embeddings
+- **Data Science & ML**: Feature engineering, model optimization, XGBoost, scikit-learn, PyTorch, TensorFlow
+- **Full-Stack ML**: Building complete pipelines from data preprocessing → model training → evaluation → Flask/FastAPI deployment
 
 ---
 
-### 🚀 About Me
+## 💼 Core Projects
 
-- 📍 Based in Hyderabad, India 🇮🇳
-- 🎓 Data Science + ML Student with a focus on practical skill-building and project delivery
-- 👨‍💻 Regularly practicing algorithms on LeetCode, with strong progress in graphs, searching, and DSA
-- 🧑‍💻 Building analytical dashboards with Power BI and advanced SQL queries
-- 🐍 Python developer with real-world use of Pandas, Numpy, Scikit-learn, and Jupyter
-- 💬 Open to collaboration: always eager to join open-source and learning-focused teams
-- 🌱 Currently: Improving DAX formulas, learning model deployment, and exploring more on business intelligence workflows
+### 1. [YOLO People Tracking System](https://github.com/abdurrabdadkhan2003/yolo-people-tracker)
+**Real-world CCTV analytics pipeline** | Computer Vision | Flask | Production-ready
+- Integrated YOLOv8 object detection with polygon-based Area-of-Interest (AOI) zone counting
+- Real-time people tracking with CSV logging and analytics dashboard
+- Flask-based visualization interface for real-time monitoring
+- **Tech**: Python, YOLOv8, OpenCV, Flask, Polygon geometry
 
----
+### 2. [YOLOv8 Detection Web App](https://github.com/abdurrabdadkhan2003/yolov8-demo)
+**Fast object detection interface** | Computer Vision | Flask | UI/UX
+- Flask web application for fast YOLOv8-based object detection
+- Image upload, real-time inference, automatic class summarization
+- Dark-themed responsive UI for seamless user experience
+- **Tech**: Python, YOLOv8, Flask, HTML/CSS/JavaScript
 
-### 📈 My Learning Highlights
+### 3. [Sports Celebrity Classifier](https://github.com/abdurrabdadkhan2003/ml-sports-celebrity-project)
+**CNN-based image classification system** | Computer Vision | Full-stack
+- End-to-end machine learning project: data collection → model training → production deployment
+- Trained CNN classifier for sports celebrity face recognition
+- Complete architecture: UI (React), server (Flask), ML model, dataset management
+- **Tech**: Python, CNN, OpenCV, Flask, React, scikit-learn
 
-- **Algorithm Mastery:**  
-  100+ LeetCode problems solved, focusing on arrays, sorting, searching, graphs, and tricky logic  
-- **Project Experience:**  
-  - **Power BI Reports:** KPI dashboards, customer analytics, fulfillment analysis  
-  - **ML Models:** Classification and clustering projects using clean code & thorough explanations  
-  - **Python Scripts:** Automations, data cleaning, and competitive programming routines
-- **Academic Focus:**  
-  Core statistics, business intelligence projects, database design, and dashboarding
-- **Continuous Learning:**  
-  Regularly update my knowledge through Udemy, YouTube, CodeBasics, and docs
+### 4. [Semantic PDF Search with RAG](https://github.com/abdurrabdadkhan2003/semantic-search-pdf)
+**Retrieval-Augmented Generation system** | NLP | Data Engineering | LLM
+- Neon PostgreSQL vector database integration for semantic search
+- PDF chunking, embedding generation, and similarity-based retrieval
+- Flask API for RAG-powered document search and Q&A
+- **Tech**: Python, Embeddings, Neon DB, PostgreSQL, Flask, LLM integration
 
----
-
-<div align="center">
-
-  ### 🛠️ Languages and Tools
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+### 5. [AI Voice Assistant](https://github.com/abdurrabdadkhan2003/ai-voice-assistant)
+**Local-first speech processing system** | NLP | Full-stack
+- Real-time speech transcription using OpenAI Whisper
+- Emotion detection via DistilRoBERTa (transformers)
+- Text summarization with BART
+- Browser-based interface - fully local, no API keys required
+- **Tech**: Python, Whisper, DistilRoBERTa, BART, Flask, JavaScript
 
 ---
 
-<div align="center">
-  <!-- fun animation, always available from Giphy -->
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="180" alt="coding" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="laptop" />
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="120" alt="studying" />
-</div>
+## 🛠️ Technical Stack
+
+**Languages**: Python, JavaScript, SQL
+
+**Deep Learning Frameworks**: PyTorch, TensorFlow, scikit-learn
+
+**Computer Vision**: YOLO (v5/v8), OpenCV, DeepSORT, CNN models
+
+**NLP & LLM**: Hugging Face transformers, Whisper, BART, embeddings, semantic search
+
+**Backend & Deployment**: Flask, FastAPI, REST APIs
+
+**Data & Databases**: Pandas, NumPy, PostgreSQL, Neon DB, vector databases
+
+**Data Visualization & BI**: Power BI, Matplotlib, Plotly
+
+**Tools**: Git, GitHub, Jupyter, VS Code, Kaggle
 
 ---
 
-### 📬 Reach out!
+## 🚀 What I Build
 
-<div align="center">
-<b>Let's connect and code together!</b><br>
-<a href="mailto:mabdurrabdadkhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/abdur-rab-dad-khan03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/maazdadkhan2003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
+✅ Production-ready ML models with end-to-end pipelines
+✅ Real-time computer vision systems (detection, tracking, classification)
+✅ NLP applications (speech recognition, text summarization, semantic search)
+✅ Full-stack systems combining ML backends with modern UI frontends
+✅ Data-driven analytics dashboards and insights
+
+---
+
+## 📊 By The Numbers
+
+- **100+ LeetCode problems** solved (focus: graphs, DSA, algorithms)
+- **5 production-grade projects** in ML/CV/NLP
+- **10+ ML models** trained and deployed
+- **Continuous learner**: Deeplearning.AI, Udemy, Kaggle competitions
+
+---
+
+## 🔗 Let's Connect
+
+Interested in collaborating on ML/CV projects? Open to:
+- Full-time ML/Data Science roles
+- Computer Vision engineering positions
+- NLP/LLM projects
+- Open-source contributions
+
+📧 **Email**: mabdurrabdadkhan@gmail.com  
+💼 **LinkedIn**: [abdur-rab-dad-khan03](https://linkedin.com/in/abdur-rab-dad-khan03)  
+🐱 **GitHub**: [@abdurrabdadkhan2003](https://github.com/abdurrabdadkhan2003)  
+
+---
+
+*Last Updated: December 2025*
