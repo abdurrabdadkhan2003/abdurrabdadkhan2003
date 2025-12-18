@@ -15,21 +15,21 @@ Specializing in **Computer Vision** (YOLO, tracking, face recognition) and **NLP
       <td align="center">
         <strong>🐍 Python</strong>
         <br/>
-        <strong style="font-size: 24px">92.5%</strong>
+        <strong style="font-size: 24px">87.4%</strong>
         <br/>
         <span>Primary Language</span>
       </td>
       <td align="center">
         <strong>⚡ Total Commits</strong>
         <br/>
-        <strong style="font-size: 24px">200+</strong>
+        <strong style="font-size: 24px">74</strong>
         <br/>
         <span>2024-2025</span>
       </td>
       <td align="center">
         <strong>📦 Projects</strong>
         <br/>
-        <strong style="font-size: 24px">15+</strong>
+        <strong style="font-size: 24px">9</strong>
         <br/>
         <span>ML/AI/Full-Stack</span>
       </td>
@@ -38,21 +38,21 @@ Specializing in **Computer Vision** (YOLO, tracking, face recognition) and **NLP
       <td align="center">
         <strong>🎯 Contributions</strong>
         <br/>
-        <strong style="font-size: 24px">250+</strong>
+        <strong style="font-size: 24px">74</strong>
         <br/>
         <span>This Year</span>
       </td>
       <td align="center">
         <strong>📚 Code Lines</strong>
         <br/>
-        <strong style="font-size: 24px">50K+</strong>
+        <strong style="font-size: 24px">12K+</strong>
         <br/>
         <span>Production Code</span>
       </td>
       <td align="center">
         <strong>🚀 Models</strong>
         <br/>
-        <strong style="font-size: 24px">25+</strong>
+        <strong style="font-size: 24px">10</strong>
         <br/>
         <span>Trained & Deployed</span>
       </td>
@@ -61,7 +61,7 @@ Specializing in **Computer Vision** (YOLO, tracking, face recognition) and **NLP
 </div>
 
 **Most Used Language: PYTHON 🐍**
-- Python: 92.5%
+- Python: 87.4%
 - JavaScript: 5.0%
 - SQL: 2.0%
 - Other: 0.5%
@@ -125,7 +125,7 @@ Specializing in **Computer Vision** (YOLO, tracking, face recognition) and **NLP
 
 **Key Achievements:**
 - **R² Score: 0.86** on test set with optimized regression model
-- Engineered **15+ features** (budget normalization, release window, genre encoding)
+- Engineered **9 features** (budget normalization, release window, genre encoding)
 - Interactive analysis notebooks with visualization and EDA
 - Business-ready insights and predictions
 
